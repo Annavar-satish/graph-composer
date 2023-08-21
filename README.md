@@ -243,7 +243,7 @@ To run the test suite, go to the project root and run:
 ```bash
 $ php vendor/bin/phpunit
 ```
-# testing the build time
+
 ## License
 
 This project is released under the permissive [MIT license](LICENSE).
